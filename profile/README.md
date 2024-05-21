@@ -1,4 +1,4 @@
-<p align="center"><img width="600" alt="og_packetix" src="https://github.com/packetIX/.github/assets/27724108/d641f64e-eb1e-4b4f-859d-f83a260d3ee9"></p>
+<p align="center"><img width="100%" alt="og_packetix" src="https://github.com/packetIX/.github/assets/27724108/d641f64e-eb1e-4b4f-859d-f83a260d3ee9"></p>
 
 ## What is `packet:IX`?
 **We, packet:IX, are the open and non-profit Internet Exchange based in Seoul.**  
